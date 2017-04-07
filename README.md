@@ -1,2 +1,2 @@
 # Javascript-Implementations
-Javascript Implementations  on Princeton Algorithms
+Javascript Implementations  on Algorithms
